@@ -1,0 +1,69 @@
+/* styles.css */
+
+
+
+/* Navigation Bar */
+a {
+  color:rgb(55, 73, 75);
+  font-size: 15px;
+  }
+
+dl {
+    
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #54f1ea;
+ }
+
+dt {
+  float: left;
+}
+ 
+dt {
+    
+  display: block;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+}
+/* Change the link color on hover */
+dt:hover {
+    
+  background-color: #01cece;
+
+}
+
+/*font */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 1px #151e9e;
+  font-weight: 800;
+  }
+
+body {  
+  background-color: rgb(173, 253, 216)
+  }
+    
+p {
+  color:rgb(52, 86, 90);   
+  font-size: 20px;   
+  font-family: inherit;
+  }
+
+img {
+  height: auto;
+  width: 400px;
+}
