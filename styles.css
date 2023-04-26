@@ -3,6 +3,9 @@
 
 
 /* Navigation Bar */
+* {
+  box-sizing: border-box;
+}
 a {
   color:rgb(55, 73, 75);
   font-size: 15px;
@@ -14,7 +17,7 @@ dl {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #54f1ea;
+  background-color: honeydew;
  }
 
 dt {
@@ -50,7 +53,6 @@ h5,
 h6 {
   color: rgb(255, 255, 255);
   text-shadow: 2px 1px #151e9e;
-  font-weight: 800;
   }
 
 body {  
